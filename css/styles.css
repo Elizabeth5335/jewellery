@@ -120,6 +120,12 @@ article a{
     color: inherit;
 }
 
+article:hover{
+    background-color: #fff;
+    transform: scale(1.05);
+    transition: 1s;
+}
+
 .readmore{
     color: #6c584c;
     line-height: 3rem;
