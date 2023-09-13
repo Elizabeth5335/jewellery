@@ -29,6 +29,10 @@ nav ul{
     margin-right: 3rem;
 }
 
+nav li{
+    font-size: 1.5rem;
+}
+
 
 main{
     padding: 0 3rem;
@@ -156,9 +160,11 @@ button{
         display: flex;
     }
 
+
     nav ul{
         align-items: center;
         flex-wrap: wrap;
+        margin-right: 0;
     }
 
     section{

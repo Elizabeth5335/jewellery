@@ -15,6 +15,10 @@ main{
     margin: 0 3rem 1rem 3rem;
 }
 
+nav li{
+    font-size: 1.75rem;
+}
+
 section{
     display: flex;
     flex-wrap: wrap;
